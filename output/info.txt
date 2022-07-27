@@ -1,1 +1,1 @@
-Passwords will be here.
+Passwords of length greater than 10 characters will be written in this directory temporarily.
